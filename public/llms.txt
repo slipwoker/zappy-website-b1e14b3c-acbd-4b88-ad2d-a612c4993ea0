@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+צילום סטילס ברמה הגבוהה ביותר לחתונות, אירועים ומיתוג עסקי. גיא אנטו - צלם מקצועי עם ניסיון עשיר שיהפוך את הרגעים החשובים שלכם לזיכרונות מושלמים
+
+### שירותים
+https://example.com/services
+חתונות, בר מצווה, אירועים עסקיים וצילומי תדמית. צלם בר מצווה מומלץ וצלם חתונות מקצועי המספק שירות מלא ותוצאות מדהימות. בואו לגלות את מגוון השירותים
+
+### חינוך
+https://example.com/education
+סדנת צילום למתחילים, קורסים מקצועיים ומועדון צלמים פעיל. למדו מצלם סטילס מנוסה והצטרפו לקהילת צילום תומכת ומעשירה. התחילו את המסע שלכם עכשיו
+
+### צור קשר
+https://example.com/contact
+מעוניינים בצלם סטילס מקצועי לאירוע או בסדנת צילום? צרו קשר עכשיו לייעוץ חינם והצעת מחיר מותאמת אישית. גיא אנטו זמין לשיחה ומחכה לשמוע מכם
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
